@@ -1,6 +1,6 @@
 I participated in Directed Reading Program with topics about graph theory in Spring 2025. The Directed Reading Program (DRP) in the UW Madison Department of Mathematics pairs undergraduate students with graduate mentors for semester-long independent studies. During the semester, the student will work through a mathematical text and meet weekly to discuss it with their mentor.
 
-This topic explores graph theory from a proofs based perspective with a few algorithms on graphs (beyond Dijkstra's). The study will follow Douglas West's: Introduction to Graph Theory very closely. Ideally, the study would cover some preliminary concepts of the following:
+Our topic explores graph theory from a proofs based perspective with a few algorithms on graphs (beyond Dijkstra's). The study will follow Douglas West's: Introduction to Graph Theory very closely. Ideally, the study would cover some preliminary concepts of the following:
 1. Basic concepts 
 2. Connectivity
 3. Bipartite (Non-bipartite if time permits) matchings
